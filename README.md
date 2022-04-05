@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### NB! It is now *required* to fill out the NEXTAUTH_SECRET variable for anything to work
 
-Make sure database is setup before attempting to access pages that depend on a database!!
+Make sure database is setup before attempting to access pages that depend on a database!!!
 
 First, run the development server:
 
